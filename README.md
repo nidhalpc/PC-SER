@@ -46,7 +46,7 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nidhalpc/PC-SER)
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nidhalpc/PC-SER?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AmeenSer/Miss-helena?v=1)
   
 ### The Hard Method
 ```js
